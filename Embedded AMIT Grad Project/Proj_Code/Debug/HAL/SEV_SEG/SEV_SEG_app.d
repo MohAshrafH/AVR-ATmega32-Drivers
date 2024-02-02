@@ -1,0 +1,2 @@
+HAL/SEV_SEG/SEV_SEG_app.o HAL/SEV_SEG/SEV_SEG_app.o:  \
+ ../HAL/SEV_SEG/SEV_SEG_app.c
